@@ -1,0 +1,4 @@
+2022-11-21T13:31:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\capabilities.php on line 999
+
+2022-11-21T13:31:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\elementor\includes\base\controls-stack.php on line 421
+

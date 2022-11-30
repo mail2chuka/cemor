@@ -1,0 +1,16 @@
+2022-11-22T19:24:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\l10n.php on line 761
+
+kages.min.php on line 1
+
+provedDirectories\Synchronize.php on line 267
+
+2022-11-22T19:24:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php on line 121
+
+2022-11-22T19:24:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php on line 121
+
+2022-11-22T19:26:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 189
+
+2022-11-22T19:26:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\Requests\Transport\cURL.php on line 165
+
+2022-11-22T19:26:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-admin\includes\misc.php on line 1629
+

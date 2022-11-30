@@ -1,0 +1,12 @@
+2022-11-30T09:29:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\variation-swatches\includes\getwooplugins\class-getwooplugins-plugin-deactivate-feedback.php on line 5
+
+2022-11-30T09:29:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\woocommerce\src\Admin\Composer\Package.php on line 12
+
+2022-11-30T09:29:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\variation-swatches\includes\class-woo-variation-swatches-term-meta.php on line 5
+
+2022-11-30T09:30:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-setting-options-v2-controller.php on line 593
+
+2022-11-30T09:30:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-setting-options-v2-controller.php on line 593
+
+2022-11-30T09:30:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\woocommerce\src\Admin\API\Reports\ExportableTraits.php on line 10
+

@@ -1,0 +1,29 @@
+[19/Nov/2022:13:31:10] (I): WordPress Instance Info:
+[19/Nov/2022:13:31:10] (I): Home URL : http://localhost/cemor
+[19/Nov/2022:13:31:10] (I): Site URL : http://localhost/cemor
+[19/Nov/2022:13:31:10] (I): WordPress Version : 6.1
+[19/Nov/2022:13:31:10] (I): Onboarding Version : 1.1.27
+[19/Nov/2022:13:31:10] (I): Multisite : No
+[19/Nov/2022:13:31:10] (I): Server Info : Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/7.4.29
+[19/Nov/2022:13:31:10] (I): PHP Version : 7.4.29
+[19/Nov/2022:13:31:10] (I): HTTPS : No
+[19/Nov/2022:13:31:10] (I): PHP Max Execution Time : 120
+[19/Nov/2022:13:31:10] (I): PHP Max Input Vars : 1000
+[19/Nov/2022:13:31:10] (I): Max Upload Size : 41943040
+[19/Nov/2022:13:31:10] (I): Plugins:
+[19/Nov/2022:13:31:10] (I): [PLUGIN] Conditional Fields for Contact Form 7 : v2.2.9 (Jules Colle)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] Contact Form 7 : v5.6.4 (Takayuki Miyoshi)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] Elementor : v3.8.1 (Elementor.com)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] Essential Addons for Elementor : v5.4.1 (WPDeveloper)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] Flexible Checkout Fields : v3.5.1 (WP Desk)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] Happy Elementor Addons : v3.7.1 (weDevs)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] Ocean Custom Sidebar : v1.0.9 (OceanWP)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] Ocean Extra : v2.0.6 (OceanWP)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] Ocean Product Sharing : v2.0.4 (OceanWP)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] Ocean Social Sharing : v2.0.2 (OceanWP)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] Ocean Stick Anything : v2.0.4 (OceanWP)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] Slider Revolution : v6.5.18 (ThemePunch)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] Templates Patterns Collection : v1.1.27 (ThemeIsle)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] Variation Swatches for WooCommerce : v2.0.11 (Emran Ahmed)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] TI WooCommerce Wishlist : v2.0.8 (TemplateInvaders)
+[19/Nov/2022:13:31:10] (I): [PLUGIN] WooCommerce : v7.1.0 (Automattic)

@@ -1,0 +1,38 @@
+2022-11-11T14:16:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\widgets\class-wp-widget-recent-posts.php on line 185
+
+2022-11-11T14:17:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\wishlist\admin\basestyle.helper.php on line 29
+
+2022-11-11T14:19:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\blocks.php on line 252
+
+2022-11-11T14:19:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\blocks.php on line 389
+
+2022-11-11T14:19:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\blocks.php on line 389
+
+2022-11-11T14:19:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\woocommerce-1\includes\admin\class-wc-admin-menus.php on line 15
+
+2022-11-11T14:20:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-admin\includes\comment.php on line 218
+
+2022-11-11T14:25:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\wp-db.php on line 2169
+
+2022-11-11T14:26:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\wp-db.php on line 2169
+
+2022-11-11T17:24:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\Requests\Transport\cURL.php on line 484
+
+2022-11-11T17:38:45+00:00 CRITICAL Uncaught Error: Call to undefined function WprAddons\Modules\Forms\Widgets\wpforms_display() in C:\xampp\htdocs\cemor\wp-content\plugins\royal-elementor-addons\modules\forms\widgets\wpr-forms.php:2413
+Stack trace:
+#0 C:\xampp\htdocs\cemor\wp-content\plugins\royal-elementor-addons\modules\forms\widgets\wpr-forms.php(2440): WprAddons\Modules\Forms\Widgets\Wpr_Forms->render_wpforms_template(Array)
+#1 C:\xampp\htdocs\cemor\wp-content\plugins\elementor\includes\base\controls-stack.php(2249): WprAddons\Modules\Forms\Widgets\Wpr_Forms->render()
+#2 C:\xampp\htdocs\cemor\wp-content\plugins\elementor\includes\base\widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 C:\xampp\htdocs\cemor\wp-content\plugins\elementor\core\base\document.php(292): Elementor\Widget_Base->render_content()
+#4 C:\xampp\htdocs\cemor\wp-content\plugins\elementor\includes\managers\widgets.php(426): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Objec in C:\xampp\htdocs\cemor\wp-content\plugins\royal-elementor-addons\modules\forms\widgets\wpr-forms.php on line 2413
+
+2022-11-11T18:17:34+00:00 CRITICAL Uncaught Error: Call to undefined function WprAddons\Modules\Forms\Widgets\wpforms_display() in C:\xampp\htdocs\cemor\wp-content\plugins\royal-elementor-addons\modules\forms\widgets\wpr-forms.php:2413
+Stack trace:
+#0 C:\xampp\htdocs\cemor\wp-content\plugins\royal-elementor-addons\modules\forms\widgets\wpr-forms.php(2440): WprAddons\Modules\Forms\Widgets\Wpr_Forms->render_wpforms_template(Array)
+#1 C:\xampp\htdocs\cemor\wp-content\plugins\elementor\includes\base\controls-stack.php(2249): WprAddons\Modules\Forms\Widgets\Wpr_Forms->render()
+#2 C:\xampp\htdocs\cemor\wp-content\plugins\elementor\includes\base\widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 C:\xampp\htdocs\cemor\wp-content\plugins\elementor\includes\base\widget-base.php(673): Elementor\Widget_Base->render_content()
+#4 C:\xampp\htdocs\cemor\wp-content\plugins\elementor\includes\db.php(202): Elementor\Widget_Base->render_plain_content()
+#5 C:\xampp\htdocs\cemor\wp-content\plugins\elementor\includes\db.php(208): Elementor\DB->rende in C:\xampp\htdocs\cemor\wp-content\plugins\royal-elementor-addons\modules\forms\widgets\wpr-forms.php on line 2413
+

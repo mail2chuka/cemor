@@ -1,0 +1,39 @@
+2022-11-14T10:09:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\Requests\Transport\cURL.php on line 484
+
+2022-11-14T16:54:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\wp-db.php on line 2169
+
+2022-11-14T16:55:05+00:00 CRITICAL Uncaught Error: Call to undefined function wpforms() in C:\xampp\htdocs\cemor\wp-content\plugins\ocean-extra\includes\panel\classes\importers\class-wpforms-importer.php:59
+Stack trace:
+#0 C:\xampp\htdocs\cemor\wp-content\plugins\ocean-extra\includes\panel\classes\importers\class-wpforms-importer.php(34): OWP_WPForms_Importer->import_json(Array)
+#1 C:\xampp\htdocs\cemor\wp-content\plugins\ocean-extra\includes\panel\demos.php(1388): OWP_WPForms_Importer->process_import_file('https://demos.o...')
+#2 C:\xampp\htdocs\cemor\wp-includes\class-wp-hook.php(307): OceanWP_Demos::ajax_import_forms('')
+#3 C:\xampp\htdocs\cemor\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\cemor\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\cemor\wp-admin\admin-ajax.php(187): do_action('wp_ajax_owp_aja...')
+#6 {main}
+  thrown in C:\xampp\htdocs\cemor\wp-content\plugins\ocean-extra\includes\panel\classes\importers\class-wpforms-importer.php on line 59
+
+2022-11-14T17:13:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\class-wp-image-editor.php on line 565
+
+2022-11-14T17:18:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\wp-db.php on line 2169
+
+2022-11-14T17:41:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\wpforms-lite\src\Admin\Education\Fields.php on line 429
+
+2022-11-14T17:41:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\flexible-checkout-fields\src\Field\Type\TimeType.php on line 49
+
+2022-11-14T17:42:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\TrackingOptIn.php on line 10
+
+2022-11-14T17:43:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\block-patterns\query-standard-posts.php on line 9
+
+2022-11-14T17:43:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-includes\blocks.php on line 252
+
+2022-11-14T17:54:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\wishlist\ti-woocommerce-wishlist.php on line 244
+
+2022-11-14T17:54:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\wishlist\ti-woocommerce-wishlist.php on line 198
+
+2022-11-14T17:55:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\StoreDetails.php on line 11
+
+2022-11-14T17:56:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php on line 121
+
+2022-11-14T17:58:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\cemor\wp-content\themes\oceanwp\inc\third\class-lifterlms.php on line 9
+
